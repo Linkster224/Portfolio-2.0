@@ -71,3 +71,68 @@ body {
 /*font-variation-settings: */
     width: 100;
 }
+
+.coming-soon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.card {
+    width: 100%;
+    max-width: 700px;
+    background: #1d1d1d;
+    border: 1px solid #2b2b2b;
+    border-radius: 16px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+.card h1 {
+    margin-top: 0;
+    font-size: 2.7rem;
+}
+
+.status {
+    color: #4ea3ff;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.card p {
+    color: #cfcfcf;
+    line-height: 1.7;
+}
+
+.buttons {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background: #057af7;
+    padding: 12px 24px;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    background: #05519d;
+}
+
+.btn.secondary {
+    background: #2a2a2a;
+}
+
+.btn.secondary:hover {
+    background: #3b3b3b;
+}
