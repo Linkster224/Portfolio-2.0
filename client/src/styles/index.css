@@ -53,3 +53,21 @@ a:active {
     margin-left: 25px;
     margin-bottom: 75px;
 }
+
+.logo {
+    max-width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    margin-inline: auto;
+    display: block;
+}
+
+
+body {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+/*font-weight: <weight>; */
+  font-style: normal;
+/*font-variation-settings: */
+    width: 100;
+}
