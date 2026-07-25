@@ -136,3 +136,10 @@ body {
 .btn.secondary:hover {
     background: #3b3b3b;
 }
+
+.dp {
+    text-align: center;
+    margin-bottom: 100px;
+    inline-size: 66ch;
+    margin-inline: auto;
+}
