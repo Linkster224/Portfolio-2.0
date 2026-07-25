@@ -1,145 +1,144 @@
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 body {
-    background-color: #121212;
-    color: white;
+  background-color: #121212;
+  color: white;
 }
 
 .description {
-    text-align: center;
-    inline-size: 66ch;
-    margin-inline:auto;
-    margin-bottom: 125px;
+  text-align: center;
+  inline-size: 66ch;
+  margin-inline: auto;
+  margin-bottom: 125px;
 }
 
 .wh {
-    text-align: center;
-    margin-bottom: 30px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .wp {
-    text-align: center;
+  text-align: center;
 }
 
 a {
-    color: #60A5FA;
-    text-decoration: none;
+  color: #60a5fa;
+  text-decoration: none;
 }
 
 a:hover {
-    color: #93C5FD;
+  color: #93c5fd;
 }
 
 a:visited {
-    color: #60A5FA;
+  color: #60a5fa;
 }
 
 a:active {
-    color: #2563EB;
+  color: #2563eb;
 }
 
 .copy-right-claim {
-    text-align: center;
-    margin-top: 150px;
+  text-align: center;
+  margin-top: 150px;
 }
 
 .lm-h {
-    margin-bottom: 125px;
+  margin-bottom: 125px;
 }
 
 .lm-1 {
-    margin-left: 25px;
-    margin-bottom: 75px;
+  margin-left: 25px;
+  margin-bottom: 75px;
 }
 
 .logo {
-    max-width: 100px;
-    border-radius: 50%;
-    text-align: center;
-    margin-inline: auto;
-    display: block;
+  max-width: 100px;
+  border-radius: 50%;
+  text-align: center;
+  margin-inline: auto;
+  display: block;
 }
-
 
 body {
   font-family: "DynaPuff", system-ui;
   font-optical-sizing: auto;
-/*font-weight: <weight>; */
+  /*font-weight: <weight>; */
   font-style: normal;
-/*font-variation-settings: */
-    width: 100;
+  /*font-variation-settings: */
+  width: 100;
 }
 
 .coming-soon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
 }
 
 .card {
-    width: 100%;
-    max-width: 700px;
-    background: #1d1d1d;
-    border: 1px solid #2b2b2b;
-    border-radius: 16px;
-    padding: 40px;
-    text-align: center;
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  max-width: 700px;
+  background: #1d1d1d;
+  border: 1px solid #2b2b2b;
+  border-radius: 16px;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
 }
 
 .card h1 {
-    margin-top: 0;
-    font-size: 2.7rem;
+  margin-top: 0;
+  font-size: 2.7rem;
 }
 
 .status {
-    color: #4ea3ff;
-    font-weight: bold;
-    margin-bottom: 30px;
+  color: #4ea3ff;
+  font-weight: bold;
+  margin-bottom: 30px;
 }
 
 .card p {
-    color: #cfcfcf;
-    line-height: 1.7;
+  color: #cfcfcf;
+  line-height: 1.7;
 }
 
 .buttons {
-    margin-top: 35px;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    flex-wrap: wrap;
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
 }
 
 .btn {
-    text-decoration: none;
-    color: white;
-    background: #057af7;
-    padding: 12px 24px;
-    border-radius: 10px;
-    transition: 0.2s;
+  text-decoration: none;
+  color: white;
+  background: #057af7;
+  padding: 12px 24px;
+  border-radius: 10px;
+  transition: 0.2s;
 }
 
 .btn:hover {
-    transform: translateY(-2px);
-    background: #05519d;
+  transform: translateY(-2px);
+  background: #05519d;
 }
 
 .btn.secondary {
-    background: #2a2a2a;
+  background: #2a2a2a;
 }
 
 .btn.secondary:hover {
-    background: #3b3b3b;
+  background: #3b3b3b;
 }
 
 .dp {
-    text-align: center;
-    margin-bottom: 100px;
-    inline-size: 66ch;
-    margin-inline: auto;
+  text-align: center;
+  margin-bottom: 100px;
+  inline-size: 66ch;
+  margin-inline: auto;
 }
